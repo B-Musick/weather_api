@@ -35,4 +35,12 @@ body{
     font-size: 4vw;
     display: none;
 }
+button{
+    background-color: rgb(5, 47, 92);
+    color: white;
+    padding: 10px;
+    font-family: 'Quicksand', sans-serif;
+    border-radius: 10px;
+    width: 100px;
+}
 
